@@ -4,7 +4,7 @@ This project aims to perform author identification on a dataset consisting of co
 
 ## Dataset
 
-The dataset comprises 630 Turkish columns, each written by one of 18 different authors. The data is sourced from "news-paper".
+The [dataset](https://data.tdd.ai/#/972a75bd-b945-48a6-9a02-e72778f32f38) comprises 630 Turkish columns, each written by one of 18 different authors. The data is sourced from "news-paper".
 
 ## Algorithms Used
 
