@@ -38,7 +38,7 @@ Confusion Matrix:
 
 ![](images/bert.jpg)
 
-Accuracy: 0.9793650793650793
+Accuracy: 0.5238095238095238
 
 ### SVM Model
 
