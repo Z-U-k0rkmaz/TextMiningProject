@@ -48,6 +48,14 @@ Confusion Matrix:
 
 Accuracy: 0.8492063492063492
 
+### XGBoost Model
+
+Confusion Matrix:
+
+![](images/xgboost.png)
+
+Accuracy: 0.5873015873015873
+
 ## Stopwords
 
 The Turkish stopwords used in this project were obtained from [countwordsfree](https://countwordsfree.com/stopwords/turkish).
