@@ -48,13 +48,13 @@ Confusion Matrix:
 
 Accuracy: 0.8492063492063492
 
-### XGBoost Model
+### SGDClassifier
 
 Confusion Matrix:
 
-![](images/xgboost.png)
+![](images/sgd.png)
 
-Accuracy: 0.5873015873015873
+Accuracy: 0.8413
 
 ## Stopwords
 
